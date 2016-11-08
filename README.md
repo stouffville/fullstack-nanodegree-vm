@@ -1,4 +1,4 @@
 rdb-fullstack
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+Open the Tournament folder and execute the tournament_test.py with a python interpretter.
